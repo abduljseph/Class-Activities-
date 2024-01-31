@@ -1,5 +1,5 @@
 // create a constant variable (const)
-
+const myName =
 // create a variable that can be reassigned (let)
 
 // create three variables and assign them values of different data types (=)
