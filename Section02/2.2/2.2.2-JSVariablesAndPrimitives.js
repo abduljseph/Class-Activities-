@@ -25,7 +25,7 @@ console.log(typeof favoriteSong);
 
 // Happy Birthday!
 // Reassign "age" to a new value
-age =42'
+age =42
 
 // You got a big raise at work.
 // Reassign "wage" to a new value

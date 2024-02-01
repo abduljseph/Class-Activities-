@@ -11,6 +11,7 @@ let myBoolean = "true";
 // TIP: console.log() prints a value in the console/terminal
 console.log(typeof myNumber);
 console.log(typeof myBoolean);
+console.log(typeof myName);
 // change the value referenced by a variable (dynamic typing)
 
 // print the type of the variable you just changed (typeof)
