@@ -12,6 +12,6 @@ console.log(myArray[myArray.length - 1]);
 
 let newArr = [];
 for (let thing of myArray) {
-    newArr.push(`${thing}`);
+  newArr.push(`${thing}`);
 }
 console.log(newArr);
