@@ -1,12 +1,14 @@
 // refactor the functions below into arrow syntax
 function myNumberFunction() {
   return ((2 ** 2 + 3) % 4) * 14;
+myNumberFunction()
+
 }
 
 function greet(name) {
   return `Hello, ${name}`;
 }
-
+greet
 const timeOfDayGreet = function(name, timeOfDay) {
   return `Hello, ${name}, good ${timeOfDay}`;
 };
