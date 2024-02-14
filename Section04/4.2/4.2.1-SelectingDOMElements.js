@@ -1,5 +1,6 @@
 // select all unordered list (ul) elements
-const ulByTag = document.getElementsByTagName("ul");
+const
+ = document.getElementsByTagName("ul");
 const ulByQuery = document.querySelectorAll("ul");
 console.log("element by tag, ulByTag");
 console.log("query select all, ulByQuery");
