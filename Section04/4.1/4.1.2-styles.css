@@ -1,1 +1,40 @@
+#bio {
+  background-color: aqua;
+  padding: 20px;
+  margin: 10px auto;
+  width: 80;
+}
+
+.skills {
+  list-style: none;
+  padding : 0;
+  margin: 10px 0;
+
+}
+
+.skills {
+  display: inline-block;
+  padding: 25px ;
+  border border-radius: 25px;
+  background-color: red ;
+}
+
+.experience {
+  display: inline-block;
+  padding: 10px;
+  border border-radius: 10px;
+  background-color: blue;
+}
+
+ .skills:hover {
+  background-color: wheat;
+}
+
+.experience:hover {
+  background-color: yellow;
+}
+
+body {
+  background-color: blanchedalmond;
+}
 
