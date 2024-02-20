@@ -12,5 +12,5 @@ let secondShift = nums.shift();
 //  push the shifts, and unshift the pops
 console.log(nums);
 
-nums.push(secondShift,)firstShift;
+nums.push(secondShift,firstShift);
 nums.unshift(firstPop, secondPop);
