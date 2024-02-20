@@ -6,4 +6,6 @@ const newArr = arrOne.concat(arrTwo, 4, "e");
 // print the new, merged array
 console.log(newArr);
 // join the merged array and print the result
-[ 'a',[0],'b'1,2,'c',['d',3],4,'e']
+// [ 'a',[0],'b'1,2,'c',['d',3],4,'e']
+console.log(newArr.join(" + "));
+// a + 0 + b + 1 + 2 + c + d, + 3 + 4 + e
