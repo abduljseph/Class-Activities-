@@ -10,4 +10,7 @@ let secondShift = nums.shift();
 
 // use push and unshift to add the variables back to the array in numerical order, 0-6
 //  push the shifts, and unshift the pops
+console.log(nums);
+
 nums.push(secondShift,)firstShift;
+nums.unshift(firstPop, secondPop);
