@@ -234,9 +234,23 @@ const data = [
 ];
 
 // using forEach, print a list of cities from the data
+const cities = [];
+
+data.forEach9(item =>cities.push(item.address.city));
+console.log(cities);
 
 // create an array of latitude and longitude coordinate pairs
+const pairs = [];
+pairs.push({`${item.address.geo.lat}, ${item.address.geo.lng}`});
+
 
 // create an array of strings that combine the company's catchPhrase and bs
 
+const jargon = [];
+
+data.forEach(item=>
+jargon.push(`${item.company.catchPhrase}` ${item.company.bs});
+
+
 // query the HTML for the class class-week, then use forEach to change the text content
+
